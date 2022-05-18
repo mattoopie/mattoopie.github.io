@@ -1,3 +1,4 @@
 source "https://rubygems.org"
+gem "webrick", "~> 1.7.0"
 gem "jekyll", "~> 4.0.0"
 gem "moving", "~> 0.3.4"
