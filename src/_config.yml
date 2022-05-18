@@ -1,0 +1,8 @@
+title: Duck
+description: >-
+  This page is about ducks.
+baseurl: ""
+url: "https://eend.org"
+
+# Build settings
+theme: minima
