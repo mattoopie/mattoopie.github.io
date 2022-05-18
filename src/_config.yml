@@ -5,4 +5,4 @@ baseurl: ""
 url: "https://eend.org"
 
 # Build settings
-theme: minima
+theme: moving
