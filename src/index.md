@@ -2,4 +2,4 @@
 layout: home
 ---
 
-Something about ducks.
+![A swimming duck](assets/duck.jpg){:class="img-responsive"}
