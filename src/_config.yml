@@ -1,7 +1,5 @@
 title: Duck
-author: Marcel
-description: >-
-  This page is about ducks.
+description: This page is about ducks.
 baseurl: ""
 url: "https://eend.org"
 favicon: "./favicon.ico"
@@ -12,5 +10,4 @@ show_excerpts: false
 theme: moving
 
 moving:
-  about_you: "Something about me"
   back_to: "Home"
