@@ -8,6 +8,7 @@ show_excerpts: false
 
 # Build settings
 theme: moving
+highlighter: none
 
 moving:
   back_to: "Home"
